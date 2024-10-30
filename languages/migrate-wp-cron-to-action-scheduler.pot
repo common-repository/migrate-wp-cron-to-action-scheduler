@@ -1,0 +1,111 @@
+# Copyright (C) 2022 Sayan Datta
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Cron Scheduler 1.0.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/migrate-wp-cron-to-action-scheduler\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-15T06:49:36+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: migrate-wp-cron-to-action-scheduler\n"
+
+#. Plugin Name of the plugin
+msgid "Advanced Cron Scheduler"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/migrate-wp-cron-to-action-scheduler/"
+msgstr ""
+
+#. Description of the plugin
+msgid "The Advanced Cron Scheduler plugin helps to easily replace or migrate Native WordPress Cron to the Action Scheduler Library."
+msgstr ""
+
+#. Author of the plugin
+msgid "Sayan Datta"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.sayandatta.co.in"
+msgstr ""
+
+#: includes/Base/Actions.php:37
+msgid "Action Scheduler"
+msgstr ""
+
+#: includes/Base/Actions.php:47
+msgid "Usage"
+msgstr ""
+
+#: includes/Base/Actions.php:48
+msgid "FAQ"
+msgstr ""
+
+#: includes/Base/Actions.php:49
+msgid "GitHub"
+msgstr ""
+
+#: includes/Base/Actions.php:50
+msgid "Donate"
+msgstr ""
+
+#. translators: %s: Plugin Name
+#: includes/Base/AdminNotice.php:46
+msgid "Your version of WordPress is below the minimum version of WordPress required by %s plugin. Please upgrade WordPress to 5.2.0 or later."
+msgstr ""
+
+#. translators: %s: Plugin Name
+#: includes/Base/AdminNotice.php:57
+msgid "Your version of PHP is below the minimum version of PHP required by %s plugin. Please contact your host and request that your version be upgraded to 5.6 or later."
+msgstr ""
+
+#. translators: %s: Plugin Name
+#: includes/Base/AdminNotice.php:66
+msgid "Thanks for installing %1$s v%2$s plugin. Click <a href=\"%3$s\">here</a> to view Action Scheduler tasks."
+msgstr ""
+
+#: includes/Base/AdminNotice.php:84
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: includes/Base/AdminNotice.php:85
+msgid "I already did"
+msgstr ""
+
+#: includes/Base/AdminNotice.php:86
+#: includes/Base/AdminNotice.php:106
+msgid "Nope&#44; maybe later"
+msgstr ""
+
+#: includes/Base/AdminNotice.php:104
+msgid "Donate Now"
+msgstr ""
+
+#: includes/Base/AdminNotice.php:105
+msgid "I already donated"
+msgstr ""
+
+#: includes/Core/AdminBar.php:41
+msgid "Tasks"
+msgstr ""
+
+#: includes/Core/Settings.php:36
+msgid "Show Admin Bar"
+msgstr ""
+
+#: includes/Core/Settings.php:39
+msgid "Enable Unique Actions"
+msgstr ""
+
+#: includes/Core/Settings.php:46
+msgid "Show Action Schedular Link in Admin Bar"
+msgstr ""
+
+#: includes/Core/Settings.php:54
+msgid "Enabling Unique Actions will prevent actions from being duplicated"
+msgstr ""
